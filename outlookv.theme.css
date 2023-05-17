@@ -1,5 +1,5 @@
 /**
- * @name outlook_v1
+ * @name test
  * @author Disease#5663
  * @version 1.0.0
  * @description Based on Outlook Web.
@@ -14,16 +14,17 @@
 @import url('https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css');
 
 :root {
-  --home-image: url('https://i.imgur.com/5OSkN4w.jpg');
-  --accent-hue: 301;
+  --home-image: url('https://i.imgur.com/gusWFml.jpg');
+  --accent-hue: 359;
   --accent-saturation: 100%;
-  --accent-brightness: 84%;
+  --accent-brightness: 40%;
   --gradient-toggle: 1;
-  --gradient-hue-shift: 0;
-  --gradient-saturation: 50%;
-  --gradient-deg: 180deg;
+  --gradient-hue-shift: 0.44;
+  --gradient-saturation: 60%;
+  --gradient-deg: 185deg;
   --customFont: Segoe UI;
 }
 
 /* Any custom CSS below here */
+
 
